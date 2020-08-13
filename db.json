@@ -23,36 +23,6 @@
     "mitarbeiter_vorname": "Johannes",
     "mitarbeiter_nachname": "Dietmar",
     "mitarbeiter_kuerzel": "JDI"
-  },
-  {
-    "mitarbeiter_vorname": "Ottfried",
-    "mitarbeiter_nachname": "Fischer",
-    "mitarbeiter_kuerzel": "OFI"
-  },
-  {
-    "mitarbeiter_vorname": "Dieter",
-    "mitarbeiter_nachname": "Dietmar",
-    "mitarbeiter_kuerzel": "DDI"
-  },
-  {
-    "mitarbeiter_vorname": "Franz",
-    "mitarbeiter_nachname": "Dietmar",
-    "mitarbeiter_kuerzel": "FDI"
-  },
-  {
-    "mitarbeiter_vorname": "Petra",
-    "mitarbeiter_nachname": "Fischer",
-    "mitarbeiter_kuerzel": "OFI"
-  },
-  {
-    "mitarbeiter_vorname": "Paolo",
-    "mitarbeiter_nachname": "Dietmar",
-    "mitarbeiter_kuerzel": "DDI"
-  },
-  {
-    "mitarbeiter_vorname": "Franziska",
-    "mitarbeiter_nachname": "Dietmar",
-    "mitarbeiter_kuerzel": "FDI"
   }
 ]
 
